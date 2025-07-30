@@ -32,12 +32,6 @@
 </p>
 
 <p align="center">
-  <a href="https://dartnode.com" title="Powered by DartNode - Free VPS for Open Source">
-    <img src="https://dartnode.com/branding/DN-Open-Source-sm.png" alt="Powered by DartNode">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://telegram.org/">
     <img src="https://img.shields.io/badge/Powered%20by-Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2d3748" alt="Powered by Telegram">
   </a>
@@ -48,6 +42,36 @@
     <img src="https://img.shields.io/badge/Built%20with-Hono-ff6d1f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2d3748" alt="Hono Framework">
   </a>
 </p>
+
+---
+
+## 🚀 赞助商
+
+<div align="center">
+
+### 💎 CDN 加速与安全防护
+
+<p align="center">
+  <strong>CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne.</strong>
+</p>
+
+<p align="center">
+  <a href="https://edgeone.ai/?from=github">
+    <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Tencent EdgeOne" width="200" height="auto">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://edgeone.ai/?from=github">
+    <img src="https://img.shields.io/badge/Powered%20by-Tencent%20EdgeOne-00d4ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzAwZDRmZiIvPgo8L3N2Zz4K&logoColor=white&labelColor=2d3748" alt="Powered by Tencent EdgeOne">
+  </a>
+</p>
+
+<p align="center">
+  <em>🌐 全球CDN加速 • 🛡️ 安全防护 • ⚡ 边缘计算优化</em>
+</p>
+
+</div>
 
 ---
 
